@@ -8,6 +8,6 @@ public class Index {
 
     @GetMapping("/")
     public String index() {
-        return "Welcome to my Java Spring Boot App! testing webhooks!!";
+        return "Welcome to my Java Spring Boot App! testing webhooks and jenkins!";
     }
 }
